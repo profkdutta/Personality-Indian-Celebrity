@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Saikrishna B/Desktop/Tools/Java API&apos;s/Apache POI/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saikrishna B/Desktop/Tools/Java API&apos;s/Apache POI/poi-excelant-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saikrishna B/Desktop/Tools/Java API&apos;s/Apache POI/poi-ooxml-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saikrishna B/Desktop/Tools/Java API&apos;s/Apache POI/poi-ooxml-schemas-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saikrishna B/Desktop/Tools/Java API&apos;s/Apache POI/poi-scratchpad-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saikrishna B/Desktop/Tools/Java API&apos;s/Apache POI/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saikrishna B/Desktop/Watson Project/language-detection-master/lib/jsonic-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saikrishna B/Desktop/Watson Project/language-detection-master/lib/langdetect.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saikrishna B/Desktop/Tools/twitter4j-4.0.4/lib/twitter4j-async-4.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saikrishna B/Desktop/Tools/twitter4j-4.0.4/lib/twitter4j-core-4.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saikrishna B/Desktop/Tools/twitter4j-4.0.4/lib/twitter4j-media-support-4.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saikrishna B/Desktop/Tools/twitter4j-4.0.4/lib/twitter4j-stream-4.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saikrishna B/Desktop/Tools/Selenium/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saikrishna B/Desktop/Tools/Selenium/selenium-server-standalone-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saikrishna B/Desktop/Tools/Java API&apos;s/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saikrishna B/Desktop/Tools/Java API&apos;s/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saikrishna B/Desktop/Tools/Java API&apos;s/Ucanaccess/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saikrishna B/Desktop/Tools/Java API&apos;s/Ucanaccess/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saikrishna B/Desktop/Tools/Java API&apos;s/Ucanaccess/hsqldb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saikrishna B/Desktop/Tools/Java API&apos;s/Ucanaccess/jackcess-2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saikrishna B/Desktop/Tools/Java API&apos;s/Ucanaccess/ucanaccess-3.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

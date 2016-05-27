@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<uclassify xmlns="http://api.uclassify.com/1/ResponseSchema" version="1.01">
+	<status success="true" statusCode="2000"/>
+	<readCalls>
+	<classify id="call_1">
+		<classification textCoverage="0.442744">
+			<class className="Feeling" p="0.337824"/>
+			<class className="Thinking" p="0.662176"/>
+		</classification>
+	</classify>
+	<classify id="call_2">
+		<classification textCoverage="0.391741">
+			<class className="Extraversion" p="0.088507"/>
+			<class className="Introversion" p="0.911493"/>
+		</classification>
+	</classify>
+	<classify id="call_3">
+		<classification textCoverage="0.540638">
+			<class className="Judging" p="0.444553"/>
+			<class className="Perceiving" p="0.555447"/>
+		</classification>
+	</classify>
+	<classify id="call_4">
+		<classification textCoverage="0.519085">
+			<class className="Sensing" p="0.348009"/>
+			<class className="iNtuition" p="0.651991"/>
+		</classification>
+	</classify>
+	</readCalls>
+</uclassify>
